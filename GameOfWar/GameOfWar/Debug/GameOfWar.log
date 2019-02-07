@@ -1,0 +1,3 @@
+﻿  GameOfWar.cpp
+c:\users\roden\source\repos\gameofwar\gameofwar\gameofwar.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameOfWar.vcxproj -> C:\Users\Roden\source\repos\GameOfWar\Debug\GameOfWar.exe
