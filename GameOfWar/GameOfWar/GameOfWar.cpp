@@ -163,7 +163,7 @@ void firstMove()
 
 void battleSim()
 {
-	while (hpA != 0 && hpB != 0)
+	while (hpA != 0 || hpB != 0)
 	{
 		a = rand() % 100 + 1;
 		b = rand() % 100 + 1;
